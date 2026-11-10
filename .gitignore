@@ -1,0 +1,18 @@
+# Sauvegardes automatiques de Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système Windows et macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Réglages d'éditeur
+.vscode/
+.idea/
+
+# Fichiers produits par Julia lors des mesures de couverture et de mémoire
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+OLD/
