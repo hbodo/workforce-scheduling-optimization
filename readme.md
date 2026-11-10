@@ -85,7 +85,7 @@ Les notebooks conservent volontairement la démarche complète, y compris les fa
 
 ## Exécuter le projet
 
-Prérequis : Julia [À COMPLÉTER : version] et Jupyter avec le noyau Julia ([IJulia](https://github.com/JuliaLang/IJulia.jl)).
+Prérequis : Julia [version 1.13] et Jupyter avec le noyau Julia ([IJulia](https://github.com/JuliaLang/IJulia.jl)).
 
 ```julia
 # dans Julia, à la racine du dépôt
